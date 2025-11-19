@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">二手物品交易平台</string>
+    <string name="home">首页</string>
+    <string name="publish">发布</string>
+    <string name="messages">消息</string>
+    <string name="profile">我的</string>
+    <string name="search_hint">搜索商品...</string>
+    <string name="categories">分类</string>
+    <string name="recommended">推荐</string>
+    <string name="new_items">新品</string>
+    <string name="hot_items">热门</string>
+    <string name="price">价格</string>
+    <string name="location">位置</string>
+    <string name="publish_item">发布商品</string>
+    <string name="item_title">商品标题</string>
+    <string name="item_description">商品描述</string>
+    <string name="item_category">商品分类</string>
+    <string name="item_price">价格</string>
+    <string name="publish_now">立即发布</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="my_items">我的商品</string>
+    <string name="my_favorites">我的收藏</string>
+    <string name="settings">设置</string>
+    <string name="logout">退出登录</string>
+</resources>

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_clothing.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_clothing.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_publish_item.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_publish_item.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_register.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_chat.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_category_selected_bg.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/category_selected_bg.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_items_list.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_items_list.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_edit_profile.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_image_upload_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/image_upload_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_settings.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_condition_bg.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/condition_bg.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_button_red_rounded.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/button_red_rounded.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_image_placeholder.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_spinner_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_item_detail.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_item_detail.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_beauty.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_beauty.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_item_order.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_orders.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_orders.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_category_normal_bg.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/category_normal_bg.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_person.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_profile.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/xml_root_preferences.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_chat_input_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/chat_input_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_camera_alt.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_camera_alt.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_chip_background_selected.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/chip_background_selected.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_item_item.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/item_item.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_favorite_filled.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_favorite_filled.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_other.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_other.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_item_message_received.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_toys.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_toys.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_send.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_electronics.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_electronics.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_circle_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_database_test.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_database_test.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_primary_button.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/primary_button.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_item_category.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_login.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_empty_orders.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_empty_orders.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_favorites.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_chip_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/chip_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/xml_backup_rules.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_button_primary.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_furniture.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_furniture.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_activity_category_filter.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/activity_category_filter.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_brand_bg.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/brand_bg.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_sports.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_sports.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_category_chip.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/category_chip.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/layout_item_message_sent.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_digital.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_digital.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_button_rounded.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_home.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_button_border.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/button_border.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_books.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_books.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_chat_send_button_background.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/chat_send_button_background.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_favorite_border.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.secondhandmarket.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.secondhandmarket.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

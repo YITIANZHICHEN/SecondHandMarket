@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 主题选项 -->
+    <string-array name="theme_entries">
+        <item>浅色</item>
+        <item>深色</item>
+        <item>自动</item>
+    </string-array>
+    
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>auto</item>
+    </string-array>
+    
+    <!-- 语言选项 -->
+    <string-array name="language_entries">
+        <item>中文</item>
+        <item>English</item>
+    </string-array>
+    
+    <string-array name="language_values">
+        <item>zh</item>
+        <item>en</item>
+    </string-array>
+    
+    <!-- 性别选项 -->
+    <string-array name="gender_entries">
+        <item>保密</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    
+    <string-array name="gender_values">
+        <item>unknown</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    
+</resources>

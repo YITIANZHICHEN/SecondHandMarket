@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 通知设置 -->
+    <PreferenceCategory android:title="通知设置">
+        
+        <SwitchPreferenceCompat
+            android:key="notifications"
+            android:title="推送通知"
+            android:summary="接收应用推送通知"
+            android:defaultValue="true" />
+            
+        <SwitchPreferenceCompat
+            android:key="sound"
+            android:title="声音提醒"
+            android:summary="通知时播放声音"
+            android:defaultValue="true"
+            android:dependency="notifications" />
+            
+        <SwitchPreferenceCompat
+            android:key="vibration"
+            android:title="振动提醒"
+            android:summary="通知时振动提醒"
+            android:defaultValue="true"
+            android:dependency="notifications" />
+            
+    </PreferenceCategory>
+
+    <!-- 显示设置 -->
+    <PreferenceCategory android:title="显示设置">
+        
+        <ListPreference
+            android:key="theme"
+            android:title="主题"
+            android:summary="选择应用主题"
+            android:defaultValue="auto"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values" />
+            
+        <ListPreference
+            android:key="language"
+            android:title="语言"
+            android:summary="选择应用语言"
+            android:defaultValue="zh"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_values" />
+            
+    </PreferenceCategory>
+
+    <!-- 隐私与安全 -->
+    <PreferenceCategory android:title="隐私与安全">
+        
+        <Preference
+            android:key="privacy"
+            android:title="隐私设置"
+            android:summary="管理隐私选项" />
+            
+        <SwitchPreferenceCompat
+            android:key="analytics"
+            android:title="数据分析"
+            android:summary="帮助改进应用体验"
+            android:defaultValue="true" />
+            
+        <SwitchPreferenceCompat
+            android:key="crash_reports"
+            android:title="崩溃报告"
+            android:summary="自动发送崩溃报告"
+            android:defaultValue="true" />
+            
+    </PreferenceCategory>
+
+    <!-- 关于 -->
+    <PreferenceCategory android:title="关于">
+        
+        <Preference
+            android:key="about"
+            android:title="关于应用"
+            android:summary="查看应用信息" />
+            
+        <Preference
+            android:key="help"
+            android:title="帮助与支持"
+            android:summary="获取使用帮助" />
+            
+        <Preference
+            android:key="version"
+            android:title="版本信息"
+            android:summary="v1.0.0" />
+            
+    </PreferenceCategory>
+
+</PreferenceScreen>

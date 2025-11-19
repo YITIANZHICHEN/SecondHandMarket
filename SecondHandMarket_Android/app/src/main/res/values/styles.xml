@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 通用样式定义，减少重复属性 -->
+    
+    <!-- 通用边距样式 -->
+    <style name="LayoutMargin16dp">
+        <item name="android:layout_margin">16dp</item>
+    </style>
+    
+    <style name="LayoutMargin8dp">
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    
+    <style name="LayoutMargin4dp">
+        <item name="android:layout_margin">4dp</item>
+    </style>
+    
+    <!-- 通用内边距样式 -->
+    <style name="Padding16dp">
+        <item name="android:padding">16dp</item>
+    </style>
+    
+    <style name="Padding12dp">
+        <item name="android:padding">12dp</item>
+    </style>
+    
+    <style name="Padding8dp">
+        <item name="android:padding">8dp</item>
+    </style>
+    
+    <style name="Padding4dp">
+        <item name="android:padding">4dp</item>
+    </style>
+    
+    <!-- 通用文本大小样式 -->
+    <style name="TextSize24sp">
+        <item name="android:textSize">24sp</item>
+    </style>
+    
+    <style name="TextSize20sp">
+        <item name="android:textSize">20sp</item>
+    </style>
+    
+    <style name="TextSize18sp">
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+    <style name="TextSize16sp">
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="TextSize14sp">
+        <item name="android:textSize">14sp</item>
+    </style>
+    
+    <style name="TextSize12sp">
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+    <style name="TextSize10sp">
+        <item name="android:textSize">10sp</item>
+    </style>
+    
+    <!-- 卡片样式 -->
+    <style name="CardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+    
+    <!-- 按钮样式 -->
+    <style name="PrimaryButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:backgroundTint">@color/primary_color</item>
+        <item name="android:textColor">@color/on_primary</item>
+    </style>
+    
+    <!-- 输入框样式 -->
+    <style name="TextInputLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    
+</resources>
